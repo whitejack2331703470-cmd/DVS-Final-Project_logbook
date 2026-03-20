@@ -5,6 +5,7 @@
 ## **Logbook：**
 **Xinyue Liu: see attachment**
 ## **Team Report**
+https://docs.google.com/document/d/13sOqXAmagMoWpW01OziKeG4sQ64n9WEprG6_-J8Ci_E/edit?usp=sharing
 
 **Yuting Zhao - CID：06059901**
 
