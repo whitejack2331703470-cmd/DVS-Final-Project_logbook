@@ -63,41 +63,25 @@ The application is launched via artify_app, which provides a modern GUI with sty
 
 GUI with loaded image and processed result — Show the main Artify window with an image loaded and one style applied, with the before/after slider visible.
 
-<img width="1999" height="1359" alt="Image" src="https://github.com/user-attachments/assets/0d1ad764-65d7-42d2-b9c3-aa1df7fdb7ea" />
+<img width="1999" height="1359" alt="Image" src="https://github.com/user-attachments/assets/bb219a70-27d4-4ee1-bbeb-b9189ce82fe2" />
 
 
 
 
 1. Parameter tuning — Same style with different parameter values to show the effect of adjustments.
 
+<img width="1232" height="745" alt="Image" src="https://github.com/user-attachments/assets/7a88baf2-aaf4-4762-8d62-def8c405c667" />
 
-
-<img width="966" height="482" alt="Image" src="https://github.com/user-attachments/assets/8b7a1ade-994a-42c8-9009-4664d73fa7e2" />
-
-
-
-
-<img width="1232" height="760" alt="Image" src="https://github.com/user-attachments/assets/af8d8e23-a0a0-4486-8d42-5ba61edc1203" />
+<img width="966" height="399" alt="Image" src="https://github.com/user-attachments/assets/97dc3233-3d39-4cb3-8f16-d300f9752f21" />
 
 
 
 
 2. canvas — Example of Stained Glass style with the optional mosaic frame enabled.
 
+<img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/ffee0230-8642-4414-b7fa-c752fa34ecb7" />
+<img width="966" height="482" alt="Image" src="https://github.com/user-attachments/assets/7bdc6bb1-1b7f-423c-b4da-dde4c6744fe8" />
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
 
 
 3. Multiple styles comparison — Same photo processed with style example side by side.
@@ -107,11 +91,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
     
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+<img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/74ced792-925f-4717-b474-6855cb183b73" />
 
 
     **Photo for watercolor, cartoon and sketch**
@@ -119,10 +99,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
     
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
+<img width="962" height="612" alt="Image" src="https://github.com/user-attachments/assets/bb3c002c-4fba-4f09-9566-b9441a39bdd7" />
 
 
 
@@ -131,10 +108,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
     
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.jpg "image_tooltip")
+<img width="597" height="900" alt="Image" src="https://github.com/user-attachments/assets/c4fcea3b-9c6e-4d98-93e8-e9aed9cab80f" />
 
 
 
@@ -144,10 +118,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
+<img width="1241" height="750" alt="Image" src="https://github.com/user-attachments/assets/2c65196a-e3b3-416a-9eb1-f1e156fe6b37" />
 
 
 **Bright watercolor:**
