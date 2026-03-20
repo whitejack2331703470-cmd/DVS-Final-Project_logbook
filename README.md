@@ -13,7 +13,7 @@ https://docs.google.com/document/d/13sOqXAmagMoWpW01OziKeG4sQ64n9WEprG6_-J8Ci_E/
 
 **Yinuo Pang - CID：06060377**
 
-# **1. What We Have Achieved**
+## **1. What We Have Achieved**
 
 We built Artify, a MATLAB application that converts photographs into artistic renditions. The application supports seven artistic styles, each with adjustable parameters:
 
