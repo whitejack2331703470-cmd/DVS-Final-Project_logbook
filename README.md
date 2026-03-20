@@ -1,13 +1,11 @@
 # **Personal Statement：**
 **Yuting Zhao: see attachment**  
 **Xinyue Liu: see attachment**
-
 **Yinuo Pang: see attachment**
 
 # **Logbook：**
 **Xinyue Liu: see attachment**  
 **Yuting Zhao: https://www.notion.so/Yuting-Zhao-CID-06059901-Lab5-6-Logbook-327a9d81bf8d80a08778cd2cc398e4d0?source=copy_link**
-
 **Yinuo Pang: https://github.com/ynuo-o/visual-logbook-2.git**
 
 # **Team Report**
