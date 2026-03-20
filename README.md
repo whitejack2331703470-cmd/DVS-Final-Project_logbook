@@ -1,10 +1,10 @@
-# **Personal Statement：**
+## **Personal Statement：**
 
 **Xinyue Liu: see attachment**
 
-# **Logbook：**
+## **Logbook：**
 **Xinyue Liu: see attachment**
-# **Team Report**
+## **Team Report**
 
 **Yuting Zhao - CID：06059901**
 
@@ -68,7 +68,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-1. Parameter tuning — Same style with different parameter values to show the effect of adjustments.
+**1. Parameter tuning — Same style with different parameter values to show the effect of adjustments.**
 
 <img width="1065" height="437" alt="Image" src="https://github.com/user-attachments/assets/8adb3aae-2144-4f9a-8265-83118341ea15" />
 
@@ -78,14 +78,14 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-2. canvas — Example of Stained Glass style with the optional mosaic frame enabled.
+**2. canvas — Example of Stained Glass style with the optional mosaic frame enabled.**
 
 
 <img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/ffee0230-8642-4414-b7fa-c752fa34ecb7" />
 
 
 
-3. Multiple styles comparison — Same photo processed with style example side by side.
+**3. Multiple styles comparison — Same photo processed with style example side by side.**
 
 **Original figure**
 
