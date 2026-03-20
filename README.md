@@ -168,20 +168,19 @@ GUI with loaded image and processed result — Show the main Artify window with 
 ## **4. Evaluation: What Our Project Can and Cannot Do**
 
 
-**Watershed-Based Method (Liu Xinyue)**
+**Realistic Watercolor Effect & Bright Watercolor Effect (Liu Xinyue)**
 
-This method simulates the interaction between pigment, water, and paper through multi-stage processing. Using morphological abstraction and median filtering, it simplifies images into spatial regions resembling brushstrokes while preserving overall structure. A pigment density model, combined with Gaussian-blurred noise and gradient masks, helps reproduce organic textures such as wet edges and flow effects. However, the method is sensitive to low-contrast regions, where the Watershed transform can cause over-segmentation. Future improvements include bilateral filtering and saliency-based feature extraction to better balance abstraction and detail preservation.
+These two styles aim to simulate watercolor aesthetics through multi-stage image processing. By applying morphological abstraction and median filtering, the image is simplified into spatial regions that resemble soft brushstrokes while maintaining overall structure. In addition, a pigment density model, combined with Gaussian-blurred noise and gradient masks, helps reproduce organic textures such as wet edges and flowing paint effects. The Realistic Watercolor version focuses on preserving natural tones and subtle transitions, while the Bright Watercolor version enhances colour saturation to create a more vivid and expressive appearance. However, the results can be sensitive in low-contrast areas, where details may become unclear or overly simplified. Future improvements could include enhanced filtering and feature-aware processing to better balance abstraction and detail preservation
 
 
-**Mean-Shift Method (Yinuo Pang)**
+**Poster / Cartoon / Sketch Styles (Yinuo Pang))**
 
 This approach demonstrates how Mean-Shift segmentation can generate multiple styles—Poster, Cartoon, and Sketch—through different pipeline designs. The Poster style achieves effective colour simplification but struggles with weak edges in low-contrast images. The Cartoon style produces the most visually convincing results but is computationally expensive and may lose fine details. The Sketch style provides strong abstraction but is sensitive to surface texture, leading to noisy line extraction. Future improvements include replacing Canny with Difference-of-Gaussians and using adaptive thresholding for more stable edge detection.
 
 
-**K-means Method (Yuting Zhao)**
+**Oil painting & Stained Glass Style (Yuting Zhao)**
 
-Compared to the watershed method, the k-means approach produces clearer and more structured results. Colour quantisation simplifies the image into coherent regions, while palette remapping enhances decorative quality. Lead-line extraction further defines shapes, and additional elements such as mosaic backgrounds and frames create a complete stained-glass composition. However, the method is sensitive to parameter selection, particularly the choice of *k*. A high *k* leads to excessive fragmentation, while a low *k* may reduce colour contrast and visual richness. Therefore, balancing segmentation detail and colour contrast remains a key challenge.
-
+Compared to the watershed method, the k-means approach produces clearer and more structured results. Colour quantisation simplifies the image into coherent regions, while palette remapping enhances decorative quality. Lead-line extraction further defines shapes, and additional elements such as mosaic backgrounds and frames create a complete stained-glass composition. However, the method is sensitive to parameter selection, particularly the choice of k. A high k leads to excessive fragmentation, while a low k may reduce colour contrast and visual richness, making the balance between detail and contrast a key challenge. In contrast, the watershed-based method only achieved a basic painterly effect, with results often appearing cluttered and lacking clear structure; therefore, it was treated as a preliminary exploration that motivated the development of the k-means-based stained glass approach for more stable and visually coherent outcomes.
 
 **Overall Evaluation**
 
