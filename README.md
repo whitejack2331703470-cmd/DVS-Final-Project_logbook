@@ -63,10 +63,7 @@ The application is launched via artify_app, which provides a modern GUI with sty
 
 GUI with loaded image and processed result — Show the main Artify window with an image loaded and one style applied, with the before/after slider visible.
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+<img width="1999" height="1359" alt="Image" src="https://github.com/user-attachments/assets/0d1ad764-65d7-42d2-b9c3-aa1df7fdb7ea" />
 
 
 
