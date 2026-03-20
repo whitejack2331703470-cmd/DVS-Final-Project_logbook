@@ -1,10 +1,12 @@
 # **Personal Statement：**
 **Yuting Zhao: see attachment**  
 **Xinyue Liu: see attachment**
+**Yinuo Pang: see attachment**
 
 # **Logbook：**
 **Xinyue Liu: see attachment**  
 **Yuting Zhao: https://www.notion.so/Yuting-Zhao-CID-06059901-Lab5-6-Logbook-327a9d81bf8d80a08778cd2cc398e4d0?source=copy_link**
+**Yinuo Pang: https://github.com/ynuo-o/visual-logbook-2.git**
 
 # **Team Report**
 https://docs.google.com/document/d/13sOqXAmagMoWpW01OziKeG4sQ64n9WEprG6_-J8Ci_E/edit?usp=sharing
@@ -177,7 +179,7 @@ These two styles aim to simulate watercolor aesthetics through multi-stage image
 
 **Poster / Cartoon / Sketch Styles (Yinuo Pang))**
 
-This approach demonstrates how Mean-Shift segmentation can generate multiple styles—Poster, Cartoon, and Sketch—through different pipeline designs. The Poster style achieves effective colour simplification but struggles with weak edges in low-contrast images. The Cartoon style produces the most visually convincing results but is computationally expensive and may lose fine details. The Sketch style provides strong abstraction but is sensitive to surface texture, leading to noisy line extraction. Future improvements include replacing Canny with Difference-of-Gaussians and using adaptive thresholding for more stable edge detection.
+The three styles implemented in this project — Poster/Pop Art, Cartoon, and Sketch — collectively demonstrate that a single algorithmic family (Mean-Shift) can produce visually distinct artistic outputs depending on feature space and pipeline design. The Poster style achieves effective graphic simplification through colour quantisation and contrast stretching, though it struggles on low-contrast images where Sobel edges become weak. The Cartoon style produces the most visually convincing results but carries a significant computational cost due to 5D Mean-Shift segmentation, and fine facial features can be lost during morphological pre-processing. The Sketch style achieves the highest degree of abstraction — intentionally so, as reflected in its low SSIM — but remains sensitive to surface texture, where Canny cannot distinguish structural contours from fine detail. Future improvements would focus on replacing Canny with a Difference-of-Gaussians approach for cleaner line selection, and incorporating adaptive thresholding for more robust Poster edges on varied image types.
 
 
 **Oil painting & Stained Glass Style (Yuting Zhao)**
@@ -220,35 +222,26 @@ Possible future improvements:
 
 ## **6. Project Structure**
 
-matlab/ artify_app.m — Application entry point 
 
-main.m 
+```
+matlab/
+├── artify_app.m          # Application entry point
+├── main.m
+├── getParameters.m
+├── meanShiftColorQuant.m # Colour-only Mean-Shift quantisation
+├── meanShiftSegmentation.m # 5D spatial-colour Mean-Shift
+├── artify_poster.m       # Poster / Pop Art style
+├── artify_cartoon.m      # Cartoon style
+├── artify_sketch.m       # Sketch style
+├── artify_watercolor.m   # Watercolor style
+├── artify_bright_watercolor.m
+├── artify_oilpainting.m
+├── artify_stainedglass.m
+├── lxy_cartoon.m         # Shared cartoon abstraction
+├── colorspace.m          # Colour space utilities
+└── bfilter2.m            # Bilateral filter
+```
 
-getParameters.m 
-
-meanShiftColorQuant.m — Colour-only Mean-Shift quantisation 
-
-meanShiftSegmentation.m — 5D spatial-colour 
-
-Mean-Shift artify_poster.m — Poster / Pop Art style 
-
-artify_cartoon.m — Cartoon style 
-
-artify_sketch.m — Sketch style 
-
-artify_watercolor.m — Watercolor style 
-
-artify_bright_watercolor.m 
-
-artify_oilpainting.m 
-
-artify_stainedglass.m 
-
-lxy_cartoon.m — Shared cartoon abstraction 
-
-colorspace.m — Colour space utilities 
-
-bfilter2.m — Bilateral filter
 
 ## **7. AI Acknowledgement**
 
