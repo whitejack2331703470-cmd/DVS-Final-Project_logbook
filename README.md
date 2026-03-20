@@ -1,6 +1,7 @@
 # DVS-Final-Project& logbook
 
 ## Our Team Report
+https://docs.google.com/document/d/13sOqXAmagMoWpW01OziKeG4sQ64n9WEprG6_-J8Ci_E/edit?usp=sharing
 
 ## Our logbook
 * Xinyue Liu: see attachement 
