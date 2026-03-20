@@ -164,7 +164,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 <img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/20990537-3937-41fb-a637-7292d022e071" />
 
 
-**4. Evaluation: What Our Project Can and Cannot Do**
+##**4. Evaluation: What Our Project Can and Cannot Do**
 
 
 ## **Watershed-Based Method (Liu Xinyue)**
