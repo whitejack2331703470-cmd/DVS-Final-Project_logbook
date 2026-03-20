@@ -12,7 +12,7 @@
 
 **Yinuo Pang - CID：06060377**
 
-**1. What We Have Achieved**
+# **1. What We Have Achieved**
 
 We built Artify, a MATLAB application that converts photographs into artistic renditions. The application supports seven artistic styles, each with adjustable parameters:
 
@@ -32,7 +32,7 @@ We built Artify, a MATLAB application that converts photographs into artistic re
 
 The application is launched via artify_app, which provides a modern GUI with style dropdown, per-style parameter tuning, before/after slider comparison, SSIM evaluation, and save functionality. Shared modules include meanShiftColorQuant.m and meanShiftSegmentation.m, used across multiple styles for coherent architecture.
 
-**2. How to Run the Application**
+# **2. How to Run the Application**
 
 **Requirements:**
 
@@ -59,7 +59,7 @@ The application is launched via artify_app, which provides a modern GUI with sty
 9. Drag the slider to compare the processed image with the original.
 10. Click “Save Result” to export the output.
 
-**3. Evidence That the Application Works**
+# **3. Evidence That the Application Works**
 
 GUI with loaded image and processed result — Show the main Artify window with an image loaded and one style applied, with the before/after slider visible.
 
@@ -164,29 +164,29 @@ GUI with loaded image and processed result — Show the main Artify window with 
 <img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/20990537-3937-41fb-a637-7292d022e071" />
 
 
-##**4. Evaluation: What Our Project Can and Cannot Do**
+# **4. Evaluation: What Our Project Can and Cannot Do**
 
 
-## **Watershed-Based Method (Liu Xinyue)**
+**Watershed-Based Method (Liu Xinyue)**
 
 This method simulates the interaction between pigment, water, and paper through multi-stage processing. Using morphological abstraction and median filtering, it simplifies images into spatial regions resembling brushstrokes while preserving overall structure. A pigment density model, combined with Gaussian-blurred noise and gradient masks, helps reproduce organic textures such as wet edges and flow effects. However, the method is sensitive to low-contrast regions, where the Watershed transform can cause over-segmentation. Future improvements include bilateral filtering and saliency-based feature extraction to better balance abstraction and detail preservation.
 
 
-## **Mean-Shift Method (Yinuo Pang)**
+**Mean-Shift Method (Yinuo Pang)**
 
 This approach demonstrates how Mean-Shift segmentation can generate multiple styles—Poster, Cartoon, and Sketch—through different pipeline designs. The Poster style achieves effective colour simplification but struggles with weak edges in low-contrast images. The Cartoon style produces the most visually convincing results but is computationally expensive and may lose fine details. The Sketch style provides strong abstraction but is sensitive to surface texture, leading to noisy line extraction. Future improvements include replacing Canny with Difference-of-Gaussians and using adaptive thresholding for more stable edge detection.
 
 
-## **K-means Method (Yuting Zhao)**
+**K-means Method (Yuting Zhao)**
 
 Compared to the watershed method, the k-means approach produces clearer and more structured results. Colour quantisation simplifies the image into coherent regions, while palette remapping enhances decorative quality. Lead-line extraction further defines shapes, and additional elements such as mosaic backgrounds and frames create a complete stained-glass composition. However, the method is sensitive to parameter selection, particularly the choice of *k*. A high *k* leads to excessive fragmentation, while a low *k* may reduce colour contrast and visual richness. Therefore, balancing segmentation detail and colour contrast remains a key challenge.
 
 
-## **Overall Evaluation**
+**Overall Evaluation**
 
 Across all methods, the project demonstrates that different segmentation techniques offer distinct trade-offs between abstraction, detail preservation, and computational complexity. The watershed method provides a foundational painterly effect but lacks stability, while Mean-Shift enables stylistic diversity at a higher computational cost. The k-means stained glass approach achieves the most coherent and visually appealing results by effectively combining colour simplification, structural enhancement, and artistic composition, although it still requires careful parameter tuning.
 
-**5. Our Application:**
+# **5. Our Application:**
 
 Strengths:
 
@@ -216,7 +216,7 @@ Possible future improvements:
 * Performance optimisation for large images.
 * Export of parameter presets for reproducible results.
 
-**6. Project Structure**
+# **6. Project Structure**
 
 matlab/ artify_app.m — Application entry point 
 
@@ -248,7 +248,7 @@ colorspace.m — Colour space utilities
 
 bfilter2.m — Bilateral filter
 
-**7. AI Acknowledgement**
+# **7. AI Acknowledgement**
 
 I would like to acknowledge the use of AI assistance (Gemini；Claude; Cursor; ChatGPT) in the preparation of this logbook. Specifically, AI was used for the following purposes:
 
