@@ -72,6 +72,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 <img width="1065" height="437" alt="Image" src="https://github.com/user-attachments/assets/8adb3aae-2144-4f9a-8265-83118341ea15" />
 
+
 <img width="966" height="399" alt="Image" src="https://github.com/user-attachments/assets/97dc3233-3d39-4cb3-8f16-d300f9752f21" />
 
 
@@ -79,13 +80,14 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 2. canvas — Example of Stained Glass style with the optional mosaic frame enabled.
 
+
 <img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/ffee0230-8642-4414-b7fa-c752fa34ecb7" />
 
 
 
 3. Multiple styles comparison — Same photo processed with style example side by side.
 
-**Original figure **
+**Original figure**
 
 
     
@@ -93,7 +95,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 <img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/74ced792-925f-4717-b474-6855cb183b73" />
 
 
-    **Photo for watercolor, cartoon and sketch**
+**Photo for watercolor, cartoon and sketch**
 
 
     
@@ -102,7 +104,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-    **Photo for pop art and oil painting**
+**Photo for pop art and oil painting**
 
 
     
@@ -111,7 +113,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-    **Photo for stained glass**
+**Photo for stained glass**
 
 **Cartoon:**
 
