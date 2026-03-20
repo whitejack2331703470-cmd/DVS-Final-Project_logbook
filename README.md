@@ -70,7 +70,7 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 1. Parameter tuning — Same style with different parameter values to show the effect of adjustments.
 
-<img width="1232" height="745" alt="Image" src="https://github.com/user-attachments/assets/7a88baf2-aaf4-4762-8d62-def8c405c667" />
+<img width="1065" height="437" alt="Image" src="https://github.com/user-attachments/assets/8adb3aae-2144-4f9a-8265-83118341ea15" />
 
 <img width="966" height="399" alt="Image" src="https://github.com/user-attachments/assets/97dc3233-3d39-4cb3-8f16-d300f9752f21" />
 
@@ -80,7 +80,6 @@ GUI with loaded image and processed result — Show the main Artify window with 
 2. canvas — Example of Stained Glass style with the optional mosaic frame enabled.
 
 <img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/ffee0230-8642-4414-b7fa-c752fa34ecb7" />
-<img width="966" height="482" alt="Image" src="https://github.com/user-attachments/assets/7bdc6bb1-1b7f-423c-b4da-dde4c6744fe8" />
 
 
 
@@ -125,60 +124,42 @@ GUI with loaded image and processed result — Show the main Artify window with 
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="1241" height="748" alt="Image" src="https://github.com/user-attachments/assets/669bb419-6227-4ef7-a0ba-2a8a85ef5250" />
 
 
-![alt_text](images/image10.png "image_tooltip")
-
-
-**Watercolor: **
+**Watercolor:**
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
+<img width="1232" height="745" alt="Image" src="https://github.com/user-attachments/assets/2d73005d-15e7-4042-9cad-6df18e06ca70" />
 
 
 **Sketch:**
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
+<img width="1247" height="733" alt="Image" src="https://github.com/user-attachments/assets/65483f7e-d757-415a-b536-cb3c415734f4" />
 
 
 **Oil painting:**
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
+<img width="1232" height="760" alt="Image" src="https://github.com/user-attachments/assets/e905a3a1-695b-49a2-9069-e10e1ec8abb8" />
 
 
 **Pop art:**
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
+<img width="1247" height="756" alt="Image" src="https://github.com/user-attachments/assets/112f272f-6618-4266-a1c4-ae4ff78d1768" />
 
 
 **Stained Glass:**
 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
+<img width="1999" height="1349" alt="Image" src="https://github.com/user-attachments/assets/20990537-3937-41fb-a637-7292d022e071" />
 
 
 **4. Evaluation: What Our Project Can and Cannot Do**
