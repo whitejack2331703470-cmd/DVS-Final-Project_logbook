@@ -1,3 +1,9 @@
+# **Personal Statement：**
+
+**Xinyue Liu: see attachment**
+
+# **Logbook：**
+**Xinyue Liu: see attachment**
 # **Team Report**
 
 **Yuting Zhao - CID：06059901**
